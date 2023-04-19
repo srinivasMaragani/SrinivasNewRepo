@@ -1,4 +1,0 @@
-1)html,css,javascript revision
-2)github projects submission
-3)python,sql
-4)create profiles,resume,interviewskills,quant-reasoning,english tips
